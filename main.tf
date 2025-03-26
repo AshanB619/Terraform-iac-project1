@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIAQ4NXPYX6KL76Y3CI"
-  secret_key = "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"
+  access_key = "********************"
+  secret_key = "*********************"
 }
 
 resource "aws_vpc" "vpc_teraform" {
